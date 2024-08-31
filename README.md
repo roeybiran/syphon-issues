@@ -1,2 +1,2 @@
 # syphon-issues
-Syphon feedback
+Bug reports, feature requests and general feedback for [Syphon](https://www.roeybiran.com/apps/syphon).
